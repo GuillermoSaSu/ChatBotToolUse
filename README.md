@@ -15,7 +15,7 @@ an "agent" today.
 
 3. **Run:**
    ```bash
-   python main.py
+   python chatbotToolUse.py
    ```
 
 4. Try things like:
